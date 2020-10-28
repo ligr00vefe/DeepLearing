@@ -1,4 +1,4 @@
-## DeepLearing(TensorFlow) 
+## DeepLearing(TensorFlow) 수업
 
 ### Chatbot
 ```
